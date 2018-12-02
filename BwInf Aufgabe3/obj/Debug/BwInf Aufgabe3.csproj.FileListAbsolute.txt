@@ -1,0 +1,7 @@
+C:\Users\Bennet Deboben\source\repos\BwInf Aufgabe1\BwInf Aufgabe3\bin\Debug\BwInf Aufgabe3.exe.config
+C:\Users\Bennet Deboben\source\repos\BwInf Aufgabe1\BwInf Aufgabe3\bin\Debug\BwInf Aufgabe3.exe
+C:\Users\Bennet Deboben\source\repos\BwInf Aufgabe1\BwInf Aufgabe3\bin\Debug\BwInf Aufgabe3.pdb
+C:\Users\Bennet Deboben\source\repos\BwInf Aufgabe1\BwInf Aufgabe3\obj\Debug\BwInf Aufgabe3.csprojAssemblyReference.cache
+C:\Users\Bennet Deboben\source\repos\BwInf Aufgabe1\BwInf Aufgabe3\obj\Debug\BwInf Aufgabe3.csproj.CoreCompileInputs.cache
+C:\Users\Bennet Deboben\source\repos\BwInf Aufgabe1\BwInf Aufgabe3\obj\Debug\BwInf Aufgabe3.exe
+C:\Users\Bennet Deboben\source\repos\BwInf Aufgabe1\BwInf Aufgabe3\obj\Debug\BwInf Aufgabe3.pdb
